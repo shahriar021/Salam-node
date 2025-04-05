@@ -1,3 +1,6 @@
 {
-  "_type": "module"
+  "_type": "module",
+  "dependencies": {
+    "mongodb": "^6.15.0"
+  }
 }
